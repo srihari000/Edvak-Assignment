@@ -20,6 +20,6 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone <url>
+   git clone https://github.com/srihari000/Edvak-Assignment.git
    cd Virtualization-For-Large-Data-Sets
    open index.html with live server
