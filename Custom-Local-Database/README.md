@@ -21,6 +21,6 @@ A lightweight custom database implementation in Node.js that stores records in J
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/srihari000/Edvak-Assignment.git
    cd Custom-Local-Database
    node ./index.js (`After successfully running this command we can able to see the data folder which holds records and index json files this act as database` )
