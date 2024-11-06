@@ -1,0 +1,26 @@
+  h1{
+    text-align: center;
+  }
+  #container {
+      width: 100%;
+      height: 500px;
+      overflow: auto;
+      position: relative;
+      border: 1px solid #ccc;
+  }
+
+  #content {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+  }
+
+  .item {
+      display: inline-block;
+      width: 150px;
+      height: 30px;
+      box-sizing: border-box;
+      padding: 5px;
+      border: 1px solid #ddd;
+  }
