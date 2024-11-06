@@ -1,4 +1,4 @@
-# Express Rate Limiting
+# Rate Limiting
 
 This project implements a rate-limiting solution in an Express.js application without using any third-party libraries. It limits the number of requests a user or IP address can make within a specified time frame.
 
@@ -17,7 +17,7 @@ This project implements a rate-limiting solution in an Express.js application wi
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/srihari000/Edvak-Assignment.git
    cd Rate-limiting
    npm i 
    node index.js (`server listen on port 5000`)
